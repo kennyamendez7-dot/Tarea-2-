@@ -14,4 +14,4 @@ Este repositorio contiene la solución programada en Python para el **Problema 3
 
 ## Estructura del Repositorio
 * `tarea2.PY`: Código fuente ejecutable desarrollado en Python 3.
-* `Tarea2_Kennya Mnedez Prin Progra 1.pdf`: Documento formal que incluye la portada institucional, tabla de variables, diagrama de flujo (Draw.io), tabla de traza y las capturas de pantalla de los 4 casos de prueba obligatorios.
+* `Tarea2_KennyaMendez_Prin-Progra 1.pdf`: Documento formal que incluye la portada institucional, tabla de variables, diagrama de flujo (Draw.io), tabla de traza y las capturas de pantalla de los 4 casos de prueba obligatorios.

@@ -1,6 +1,6 @@
 # Tarea 2: Sistema de Inventario de una Tienda
 **Curso:** Principios de Programación  
-**Estudiante:** Kenny  
+**Estudiante:** Kennya Mendez Castro  
 
 ## Descripción del Proyecto
 Este repositorio contiene la solución programada en Python para el **Problema 3: Inventario de una tienda**. El objetivo principal del programa es permitir el registro sistemático y controlado de artículos comerciales en un inventario digital, aplicando conceptos fundamentales de programación imperativa como variables, constantes, flujos secuenciales, condicionales anidados y ciclos controlados por el usuario.
